@@ -1,0 +1,15 @@
+a.sidebar-item {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+    width: calc(var(--spacing) * 12);
+    height: calc(var(--spacing) * 12);
+    color: grey;
+}
+
+a.sidebar-item:hover {
+    background-color: #F7F7F7;
+}

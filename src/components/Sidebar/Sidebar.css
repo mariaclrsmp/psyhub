@@ -1,0 +1,10 @@
+.bg-homepage {
+    background-color: #26B3CC;
+}
+
+.sidebar-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
